@@ -10,7 +10,7 @@
         <div class="p-3 bg-light border rounded-3">
           <h3>To do list от Парасат Утебай</h3>
           <p class='text-center'>C использованием Laravel Eloquent.
-          <a href='#'>Github код сайта</a></p>
+          <a href='https://github.com/UtebayPi/Todolist-laravel' target="_blank">Github код сайта</a></p>
         </div>
       </div>
   <form method="post" action="/submit" class="container d-flex justify-content-center">
